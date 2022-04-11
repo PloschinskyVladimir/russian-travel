@@ -1,0 +1,9 @@
+.max-section {
+    max-width: 1184px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 568px) {
+    .max-section {
+        max-width: 320px;
+    }
+}

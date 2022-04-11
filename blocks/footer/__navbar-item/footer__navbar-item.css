@@ -1,0 +1,8 @@
+@media screen and (max-width: 750px) {
+    .footer__navbar-item {
+        margin-bottom: 33px;
+    }
+    .footer__navbar-item:last-child {
+        margin-bottom: 0;
+    }
+}
