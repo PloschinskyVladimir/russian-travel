@@ -79,11 +79,11 @@ russian-travel
             __title                             #директория элемента place__title
                 place__title.css                #реализация элемента place__title в технологии CSS
             __website/                          #директория элемента place__website
-                _link/                          #директория модификатора place__website_link
-                    place__website_link.css     #реализация модификатора place__website_link в технологии CSS
-                _url-heading/                   #директория модификатора place__website_url-heading
-                    place__website_url-heading.css              #реализация модификатора place__website_url-heading в технологии CSS
                 place__website.css              #реализация элемента place__website в технологии CSS
+            __link/                          #директория элемента place__website_link
+                place__link.css     #реализация элемента place__website_link в технологии CSS
+            __url-heading/                   #директория элемента place__website_url-heading
+                place__url-heading.css              #реализация элемента place__website_url-heading в технологии CSS
             place.css                           #реализация блока place в технологии CSS
         places/                                 #директория блока places
             places.css                          #реализация блока places в технологии CSS
