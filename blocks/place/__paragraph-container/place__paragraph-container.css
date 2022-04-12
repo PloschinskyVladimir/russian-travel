@@ -1,11 +1,8 @@
-.place__paragraph_container {
+.place__paragraph-container {
     grid-area: paragraph;
 }
-.place__paragraph:last-child {
-    
-}
 @media all and (max-width: 984px) {
-    .place__paragraph_container {
+    .place__paragraph-container {
         font-size: 1em;
         max-width: 352px;
     }
