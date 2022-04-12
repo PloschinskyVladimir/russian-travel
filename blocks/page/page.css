@@ -3,4 +3,18 @@
     color: #fff;
     font-family: "Inter Regular";
     text-rendering: optimizeLegibility;
+    margin: 0 48px;
+}
+.wrapper {
+    
+}
+@media screen and (max-width: 1024px) {
+    .page {
+        margin: 0 24px;
+    }
+}
+@media screen and (max-width: 568px) {
+    .page {
+        margin: 0;
+    }
 }

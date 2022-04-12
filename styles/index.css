@@ -47,7 +47,7 @@
 @import url(../blocks/place/__website/_url-heading/place__website_url-heading.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/section/section.css);
-@import url(../blocks/wrapper/wrapper.css);
+
 @font-face {
     font-family: 'Inter Black';
     src: url(../fonts/Inter\ Desktop/Inter-Black.otf);

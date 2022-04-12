@@ -89,8 +89,6 @@ russian-travel
             places.css                          #реализация блока places в технологии CSS
         section/                                #директория блока section
             section.css                         #реализация блока section в технологии CSS
-        wrapper/                                #директория блока wrapper
-            wrapper.css                         #реализация блока wrapper в технологии CSS
         fonts/                                  #директория шрифтов страницы     
         images/                                 #директория изображений страницы
         styles/                                 #директория стилей
