@@ -4,16 +4,20 @@
     font-weight: 400;
     font-size: 1.125em;
     line-height: 163%;
-    grid-area: paragraph;
+    margin: 0;
+}
+.place__paragraph:first-child {
+    margin-bottom: 27px;
 }
 @media all and (max-width: 984px) {
-    .place__paragraph {
-        font-family: 'Inter Regular';
-        font-style: normal;
-        font-weight: 400;
+    .place__paragraph:first-child {
+        margin-bottom: 26px;
         font-size: 1em;
-        line-height: 163%;
-        grid-area: paragraph;
         max-width: 352px;
+    }
+}
+@media screen and (max-width: 568px) {
+    .place__paragraph:first-child {
+        margin-bottom: 0;
     }
 }

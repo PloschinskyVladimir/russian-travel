@@ -73,8 +73,8 @@ russian-travel
             __image/                            #директория элемента place__image
                 place__image.css                #реализация элемента place__image в технологии CSS
             __paragraph/                        #директория элемента place__paragraph
-                _p                              #директория модификатора place__paragraph_p
-                    place__paragraph_p.css      #реализация модификатора place__paragraph_p в технологии CSS
+                _container/                              #директория модификатора place__paragraph_container
+                    place__paragraph_container.css       #реализация модификатора place__paragraph_container в технологии CSS
                 place__paragraph.css            #реализация элемента place__paragraph в технологии CSS
             __title                             #директория элемента place__title
                 place__title.css                #реализация элемента place__title в технологии CSS
