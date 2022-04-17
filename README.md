@@ -1,4 +1,5 @@
 # Проект: Путешествие по России
+Ссылка на GH Pages: https://ploschinskyvladimir.github.io/russian-travel/
 
 Сайт разработан с использование только HTML и CSS.
 В CSS используются:
@@ -20,8 +21,6 @@ russian-travel
                 footer__link.css                #реализация элемента footer__link в технологии CSS
             __navbar/                           #директория элемента footer__navbar
                 footer__navbar.css              #реализация элемента footer__navbar в технологии CSS
-            __navbar-item/                      #директория элемента footer__navbar-item
-                footer__navbar-item.css         #реализация элемента footer__navbar-item в технологии CSS
             footer.css                          #реализация блока footer в технологии CSS
         header/                                 #директория блока header
             __lang-link/                        #директория элемента header__lang-link
@@ -42,6 +41,8 @@ russian-travel
                 lead__caption.css               #реализация элемента lead__caption в технологии CSS
             __image/                            #директория элемента lead__image
                 lead__image.css                 #реализация элемента lead__image в технологии CSS
+            __image-zone                        #директория элемента lead__image-zone
+                lead__image-zone.css            #реализация элемента lead__image-zone в технологии CSS
             __subtitle/                         #директория элемента lead__subtitle
                 lead__subtitle.css              #реализация элемента lead__subtitle в технологии CSS
             __title/                            #директория элемента lead__title
@@ -89,7 +90,8 @@ russian-travel
             places.css                          #реализация блока places в технологии CSS
         section/                                #директория блока section
             section.css                         #реализация блока section в технологии CSS
-        fonts/                                  #директория шрифтов страницы     
+        fonts/                                  #директория шрифтов страницы    
+            fonts.css                           #реализация директории шрифтов страницы в технологии CSS 
         images/                                 #директория изображений страницы
         styles/                                 #директория стилей
             styles.css                          #реализация директории styles в технологии CSS

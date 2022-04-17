@@ -1,9 +1,9 @@
 .page {
     background-color: #2A2C2F;
     color: #fff;
-    font-family: "Inter Regular";
     text-rendering: optimizeLegibility;
     margin: 0 48px;
+    font-family: 'Inter', 'Arial', sans-serif;
 }
 @media screen and (max-width: 1024px) {
     .page {

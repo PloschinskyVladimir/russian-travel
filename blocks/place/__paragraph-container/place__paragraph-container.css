@@ -3,7 +3,6 @@
 }
 @media all and (max-width: 984px) {
     .place__paragraph-container {
-        font-size: 1em;
         max-width: 352px;
     }
 }

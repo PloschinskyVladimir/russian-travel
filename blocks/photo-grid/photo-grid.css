@@ -8,14 +8,13 @@
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
         gap: 14px;
-        margin: 0 auto;
     }
 }
 @media all and (max-width: 820px) {
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 16px;
-        margin: 0 24px 0;
+        margin: 0 24px;
     }
 }
 @media screen and (max-width: 568px) {

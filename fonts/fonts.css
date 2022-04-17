@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: normal;
+    src:
+    url(../fonts/Inter\ Desktop/Inter-Regular.ttf) format("ttf"), 
+    url(../fonts/Inter\ Desktop/Inter-Regular.otf) format("otf"),
+    url(../fonts/Inter\ Desktop/Inter-Regular.woff) format("woff"),
+    url(../fonts/Inter\ Desktop/Inter-Regular.woff2) format("woff2");
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-style: normal;
+    src: 
+    url(../fonts/Inter\ Desktop/Inter-Bold.ttf) format("ttf"),
+    url(../fonts/Inter\ Desktop/Inter-Bold.otf) format("otf"),
+    url(../fonts/Inter\ Desktop/Inter-Bold.woff) format("woff"),
+    url(../fonts/Inter\ Desktop/Inter-Bold.woff2) format("woff2");
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-style: normal;
+    src: 
+    url(../fonts/Inter\ Desktop/Inter-Black.ttf) format("ttf"),
+    url(../fonts/Inter\ Desktop/Inter-Black.otf) format("otf"),
+    url(../fonts/Inter\ Desktop/Inter-Black.woff) format("woff"),
+    url(../fonts/Inter\ Desktop/Inter-Black.woff2) format("woff2");
+}
