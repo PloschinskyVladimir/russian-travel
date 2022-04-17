@@ -5,6 +5,8 @@
     font-size: 12px;
     line-height: 18px;
     margin: 33px 0 92px;
+    list-style: none;
+    padding: 0;
 }
 @media all and (max-width: 984px) {
     .intro__list {
